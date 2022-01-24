@@ -14,3 +14,7 @@
 
 ### 📧 Почта: mattzenn@yandex.ru
 ### 🌐 Telegram: @matvey_zenin
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mattzenn&show_icons=true&locale=en&layout=compact&count_private=true&theme=gruvbox&hide=python&langs_count=8" alt="Mattzenn" />
+</p>
