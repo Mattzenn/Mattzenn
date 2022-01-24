@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Всем привет
+## Я начинающий Front-end разработчик
+### Планы и желания
++ 😎 Хочу работать в команде профессионалов и делать крутые проекты
++ 🚀 Осваиваю новые технологии
++ 📙 Выпускник Яндекс.Практикума.
+### Используемые языки и технологии: 
+![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
+![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
+![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
+![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
 
-<!--
-**Mattzenn/Mattzenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📧 Почта: mattzenn@yandex.ru
+### 🌐 Telegram: @matvey_zenin
