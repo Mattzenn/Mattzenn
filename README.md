@@ -14,7 +14,7 @@
 
 ### Моя миссия: менять мир за счет реализации инновационных проектов в сфере IT, которыми пользуются множество людей. 🏆
 
-### Используемые языки и технологии: 
+### Основные используемые языки и технологии: 
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=sass)
@@ -22,6 +22,10 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
 
+
+### Дополнительные используемые языки и технологии:
+Node JS / Express JS
+Mongo DB / Mongoose
 
 ### 📧 Почта: mattzenn@yandex.ru
 ### 🌐 Telegram: @matvey_zenin
