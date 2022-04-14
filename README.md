@@ -24,8 +24,8 @@
 
 
 ### Дополнительные используемые языки и технологии:
-Node JS / Express JS
-Mongo DB / Mongoose
++ Node JS / Express JS
++ Mongo DB / Mongoose
 
 ### 📧 Почта: mattzenn@yandex.ru
 ### 🌐 Telegram: @matvey_zenin
