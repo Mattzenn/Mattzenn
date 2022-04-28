@@ -28,6 +28,7 @@
 + Mongo DB / Mongoose
 
 ### 📧 Почта: mattzenn@yandex.ru
+### 🌐 Habr Карьера: https://career.habr.com/mattzen
 ### 🌐 Telegram: @matvey_zenin
 
 ### Статистика:
