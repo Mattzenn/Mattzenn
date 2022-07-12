@@ -22,10 +22,11 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
 
-
 ### Дополнительные используемые языки и технологии:
++ Next.js
 + Node JS / Express JS
 + Mongo DB / Mongoose
+
 
 ### 📧 Почта: mattzenn@yandex.ru
 ### 🌐 Habr Карьера: https://career.habr.com/mattzen
